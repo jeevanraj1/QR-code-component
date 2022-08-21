@@ -8,9 +8,6 @@ The challenge is to build out this QR code component and get it looking as close
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 ![Design preview for the QR code component coding challenge](/images/desktop-design.jpg)
 
-
-
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -28,11 +25,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Screenshot
 
-![the screenshot of my project](images/Screenshot(71).jpg)
-
-
-
-
+![the screenshot of my project](./images/Screenshot (71).jpg)
 
 ### Links
 
@@ -49,13 +42,6 @@ You can use any tools you like to help you complete the challenge. So if you've 
 - CSS Grid
 
 - [Styled Components](https://styled-components.com/) - For styles
-
-
-
-
-
-
-
 ## Author
 
 
