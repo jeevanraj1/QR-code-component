@@ -30,7 +30,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Screenshot
 
-![the screenshot of my project](./screenshot.jpg)
+![the screenshot of my project](/Screenshot (71).png)
 
 
 
